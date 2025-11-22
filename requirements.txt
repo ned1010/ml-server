@@ -8,6 +8,7 @@ langchain-chroma
 langchain-core
 langchain-pinecone
 openai>=1.10.0,<2.0.0
-pinecone-client
+pinecone
 pypdf
 pydantic>=2.0.0
+numpy
